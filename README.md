@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyaprakash-programmer
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
